@@ -1,0 +1,8 @@
+Una condizione bloccante per il salvataggio di nuovi dati è l'uguaglianza di tutti i campi,
+è permesso inserire dati uguali in parte a dati già inseriti. quindi si rende accettabile
+la situazione nella quale si sia utilizzato lo stesso nome utente o password per accedere 
+a siti differenti siti diversi. non è invece accettabile se sia utente che sito sono
+già presenti
+
+
+è necessario complare tutti i campi per eliminare un utente in ottienidati
